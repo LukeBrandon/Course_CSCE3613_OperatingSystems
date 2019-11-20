@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProducerConsumer",
+            "request": "launch",
+            "mainClass": "ProducerConsumer"
+        }
+    ]
+}
