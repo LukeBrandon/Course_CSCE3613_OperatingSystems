@@ -1,0 +1,794 @@
+Seconds: 20 // Producers: 10 // Consumers: 5
+Produced 14326
+Produced 94180
+Produced 78562
+Produced 247
+    Consumed 14326
+Produced 55684
+Produced 98612
+    Consumed 94180
+Produced 75042
+    Consumed 78562
+Produced 89573
+    Consumed 247
+Produced 65002
+    Consumed 55684
+Produced 35344
+    Consumed 98612
+Produced 28417
+    Consumed 75042
+Produced 75029
+    Consumed 89573
+Produced 57847
+    Consumed 65002
+Produced 54852
+    Consumed 35344
+Produced 61039
+    Consumed 28417
+Produced 88606
+    Consumed 75029
+Produced 72762
+    Consumed 57847
+Produced 88553
+    Consumed 54852
+Produced 63075
+    Consumed 61039
+Produced 77251
+    Consumed 88606
+Produced 40910
+    Consumed 72762
+Produced 43862
+    Consumed 88553
+Produced 14166
+    Consumed 63075
+Produced 13097
+    Consumed 77251
+Produced 30310
+    Consumed 40910
+    Consumed 43862
+Produced 24285
+Produced 24924
+    Consumed 14166
+Produced 78768
+    Consumed 13097
+Produced 59604
+    Consumed 30310
+Produced 84707
+    Consumed 24285
+Produced 33442
+    Consumed 24924
+Produced 35064
+    Consumed 78768
+Produced 47064
+    Consumed 59604
+Produced 47304
+    Consumed 84707
+Produced 49525
+    Consumed 33442
+Produced 72542
+    Consumed 35064
+Produced 71991
+    Consumed 47064
+Produced 52607
+    Consumed 47304
+Produced 50291
+    Consumed 49525
+Produced 47212
+    Consumed 72542
+Produced 71013
+    Consumed 71991
+Produced 40049
+    Consumed 52607
+Produced 6678
+    Consumed 50291
+Produced 17210
+    Consumed 47212
+Produced 99281
+    Consumed 71013
+Produced 36690
+    Consumed 40049
+Produced 51477
+    Consumed 6678
+Produced 45479
+    Consumed 17210
+Produced 99519
+    Consumed 99281
+Produced 53343
+    Consumed 36690
+Produced 69111
+    Consumed 51477
+Produced 75433
+    Consumed 45479
+Produced 865
+    Consumed 99519
+Produced 53724
+    Consumed 53343
+Produced 887
+    Consumed 69111
+Produced 23049
+    Consumed 75433
+Produced 60965
+    Consumed 865
+Produced 12860
+    Consumed 53724
+Produced 13514
+    Consumed 887
+Produced 51848
+    Consumed 23049
+Produced 41926
+    Consumed 60965
+Produced 84913
+    Consumed 12860
+Produced 13478
+    Consumed 13514
+Produced 13818
+    Consumed 51848
+Produced 87926
+    Consumed 41926
+Produced 74706
+    Consumed 84913
+Produced 22454
+    Consumed 13478
+Produced 2494
+    Consumed 13818
+    Consumed 87926
+Produced 50238
+Produced 63312
+    Consumed 74706
+Produced 84141
+    Consumed 22454
+Produced 83957
+    Consumed 2494
+Produced 33123
+    Consumed 50238
+Produced 90111
+    Consumed 63312
+Produced 62733
+    Consumed 84141
+Produced 34458
+    Consumed 83957
+Produced 50358
+    Consumed 33123
+Produced 86417
+    Consumed 90111
+Produced 57885
+    Consumed 62733
+Produced 42013
+    Consumed 34458
+Produced 86022
+    Consumed 50358
+Produced 32882
+    Consumed 86417
+Produced 48308
+    Consumed 57885
+Produced 95161
+    Consumed 42013
+Produced 73673
+    Consumed 86022
+Produced 4656
+    Consumed 32882
+Produced 95383
+    Consumed 48308
+Produced 20610
+    Consumed 95161
+Produced 77239
+    Consumed 73673
+Produced 68072
+    Consumed 4656
+Produced 14196
+    Consumed 95383
+Produced 89609
+    Consumed 20610
+Produced 99804
+    Consumed 77239
+Produced 42408
+    Consumed 68072
+Produced 94071
+    Consumed 14196
+Produced 19728
+    Consumed 89609
+Produced 63928
+    Consumed 99804
+Produced 53693
+    Consumed 42408
+Produced 65528
+    Consumed 94071
+Produced 56424
+    Consumed 19728
+Produced 98165
+    Consumed 63928
+Produced 46864
+    Consumed 53693
+Produced 76611
+    Consumed 65528
+Produced 63511
+    Consumed 56424
+Produced 41532
+    Consumed 98165
+Produced 18782
+    Consumed 46864
+Produced 3637
+    Consumed 76611
+Produced 94
+    Consumed 63511
+Produced 84105
+    Consumed 41532
+Produced 63751
+    Consumed 18782
+Produced 4440
+    Consumed 3637
+Produced 58882
+    Consumed 94
+Produced 19172
+    Consumed 84105
+Produced 42515
+    Consumed 63751
+Produced 25598
+    Consumed 4440
+Produced 82162
+    Consumed 58882
+Produced 8825
+    Consumed 19172
+Produced 7091
+    Consumed 42515
+Produced 55652
+    Consumed 25598
+Produced 85692
+    Consumed 82162
+Produced 49930
+    Consumed 8825
+Produced 99778
+    Consumed 7091
+Produced 27128
+    Consumed 55652
+Produced 590
+    Consumed 85692
+Produced 57348
+    Consumed 49930
+Produced 80768
+    Consumed 99778
+Produced 19307
+    Consumed 27128
+Produced 84777
+    Consumed 590
+Produced 50957
+    Consumed 57348
+Produced 67280
+    Consumed 80768
+Produced 46518
+    Consumed 19307
+Produced 16596
+    Consumed 84777
+Produced 45222
+    Consumed 50957
+Produced 12588
+    Consumed 67280
+Produced 49148
+    Consumed 46518
+Produced 47088
+    Consumed 16596
+Produced 95971
+    Consumed 45222
+Produced 14147
+    Consumed 12588
+Produced 1396
+    Consumed 49148
+Produced 48883
+    Consumed 47088
+Produced 25095
+    Consumed 95971
+Produced 32705
+    Consumed 14147
+Produced 52441
+    Consumed 1396
+Produced 51100
+    Consumed 48883
+Produced 42676
+    Consumed 25095
+Produced 53262
+    Consumed 32705
+Produced 43274
+    Consumed 52441
+Produced 90299
+    Consumed 51100
+Produced 71956
+    Consumed 42676
+Produced 74179
+    Consumed 53262
+Produced 48478
+    Consumed 43274
+Produced 16442
+    Consumed 90299
+Produced 99648
+    Consumed 71956
+Produced 76677
+    Consumed 74179
+Produced 21153
+    Consumed 48478
+Produced 10250
+    Consumed 16442
+Produced 20132
+    Consumed 99648
+Produced 16821
+    Consumed 76677
+Produced 1497
+    Consumed 21153
+Produced 49244
+    Consumed 10250
+Produced 73055
+    Consumed 20132
+Produced 45180
+    Consumed 16821
+Produced 76493
+    Consumed 1497
+Produced 82650
+    Consumed 49244
+Produced 88186
+    Consumed 73055
+Produced 54806
+    Consumed 45180
+Produced 55298
+    Consumed 76493
+Produced 32680
+    Consumed 82650
+Produced 25925
+    Consumed 88186
+Produced 43628
+    Consumed 54806
+Produced 1253
+    Consumed 55298
+Produced 62452
+    Consumed 32680
+Produced 54853
+    Consumed 25925
+Produced 53836
+    Consumed 43628
+Produced 9321
+    Consumed 1253
+Produced 13843
+    Consumed 62452
+Produced 44212
+    Consumed 54853
+Produced 85582
+    Consumed 53836
+Produced 45724
+    Consumed 9321
+Produced 7538
+    Consumed 13843
+Produced 42150
+    Consumed 44212
+Produced 80741
+    Consumed 85582
+Produced 68382
+    Consumed 45724
+Produced 7426
+    Consumed 7538
+Produced 72531
+    Consumed 42150
+Produced 44365
+    Consumed 80741
+Produced 34498
+    Consumed 68382
+Produced 25336
+    Consumed 7426
+Produced 16264
+    Consumed 72531
+Produced 20411
+    Consumed 44365
+Produced 17666
+    Consumed 34498
+Produced 1623
+    Consumed 25336
+Produced 15305
+    Consumed 16264
+Produced 90566
+    Consumed 20411
+Produced 50039
+    Consumed 17666
+Produced 23088
+    Consumed 1623
+Produced 52839
+    Consumed 15305
+Produced 1896
+    Consumed 90566
+Produced 88828
+    Consumed 50039
+Produced 33660
+    Consumed 23088
+Produced 46139
+    Consumed 52839
+Produced 37315
+    Consumed 1896
+Produced 44737
+    Consumed 88828
+Produced 5340
+    Consumed 33660
+Produced 60924
+    Consumed 46139
+Produced 11408
+    Consumed 37315
+Produced 33242
+    Consumed 44737
+Produced 6318
+    Consumed 5340
+Produced 37814
+    Consumed 60924
+Produced 12738
+    Consumed 11408
+Produced 97718
+    Consumed 33242
+Produced 26154
+    Consumed 6318
+Produced 6281
+    Consumed 37814
+Produced 97481
+    Consumed 12738
+Produced 65704
+    Consumed 97718
+Produced 56582
+    Consumed 26154
+Produced 83201
+    Consumed 6281
+Produced 90634
+    Consumed 97481
+Produced 81034
+    Consumed 65704
+Produced 85416
+    Consumed 56582
+Produced 60506
+    Consumed 83201
+Produced 70966
+    Consumed 90634
+Produced 40780
+    Consumed 81034
+Produced 78163
+    Consumed 85416
+Produced 23614
+    Consumed 60506
+Produced 11462
+    Consumed 70966
+Produced 11922
+    Consumed 40780
+Produced 51829
+    Consumed 78163
+Produced 77601
+    Consumed 23614
+Produced 89979
+    Consumed 11462
+Produced 2302
+    Consumed 11922
+Produced 83015
+    Consumed 51829
+Produced 34847
+    Consumed 77601
+Produced 37734
+    Consumed 89979
+Produced 38538
+    Consumed 2302
+Produced 52901
+    Consumed 83015
+Produced 44217
+    Consumed 34847
+Produced 74964
+    Consumed 37734
+Produced 98654
+    Consumed 38538
+Produced 35328
+    Consumed 52901
+Produced 4549
+    Consumed 44217
+Produced 26233
+    Consumed 74964
+Produced 9630
+    Consumed 98654
+Produced 26354
+    Consumed 35328
+Produced 59448
+    Consumed 4549
+Produced 54057
+    Consumed 26233
+Produced 42237
+    Consumed 9630
+Produced 53059
+    Consumed 26354
+Produced 13029
+    Consumed 59448
+Produced 8032
+    Consumed 54057
+Produced 94047
+    Consumed 42237
+Produced 33914
+    Consumed 53059
+Produced 87357
+    Consumed 13029
+Produced 76798
+    Consumed 8032
+Produced 1355
+    Consumed 94047
+Produced 89039
+    Consumed 33914
+Produced 46454
+    Consumed 87357
+Produced 10715
+    Consumed 76798
+Produced 56112
+    Consumed 1355
+Produced 55617
+    Consumed 89039
+Produced 8487
+    Consumed 46454
+Produced 81791
+    Consumed 10715
+Produced 76979
+    Consumed 56112
+Produced 36339
+    Consumed 55617
+Produced 20499
+    Consumed 8487
+Produced 8039
+    Consumed 81791
+Produced 5613
+    Consumed 76979
+Produced 95224
+    Consumed 36339
+Produced 90133
+    Consumed 20499
+Produced 89092
+    Consumed 8039
+Produced 95259
+    Consumed 5613
+Produced 71608
+    Consumed 95224
+Produced 74890
+    Consumed 90133
+Produced 29814
+    Consumed 89092
+Produced 3271
+    Consumed 95259
+Produced 49712
+    Consumed 71608
+Produced 72412
+    Consumed 74890
+Produced 45115
+    Consumed 29814
+Produced 61780
+    Consumed 3271
+Produced 36122
+    Consumed 49712
+Produced 87600
+    Consumed 72412
+Produced 9798
+    Consumed 45115
+Produced 48819
+    Consumed 61780
+Produced 11781
+    Consumed 36122
+Produced 73493
+    Consumed 87600
+Produced 66967
+    Consumed 9798
+Produced 10165
+    Consumed 48819
+Produced 62942
+    Consumed 11781
+Produced 48150
+    Consumed 73493
+Produced 39695
+    Consumed 66967
+Produced 78469
+    Consumed 10165
+Produced 96962
+    Consumed 62942
+Produced 25274
+    Consumed 48150
+Produced 58880
+    Consumed 39695
+Produced 28220
+    Consumed 78469
+Produced 53304
+    Consumed 96962
+Produced 73144
+    Consumed 25274
+Produced 61729
+    Consumed 58880
+Produced 45889
+    Consumed 28220
+Produced 81565
+    Consumed 53304
+Produced 77434
+    Consumed 73144
+Produced 3543
+    Consumed 61729
+Produced 78081
+    Consumed 45889
+Produced 50075
+    Consumed 81565
+Produced 33899
+    Consumed 77434
+Produced 45869
+    Consumed 3543
+Produced 40864
+    Consumed 78081
+Produced 76660
+    Consumed 50075
+Produced 3771
+    Consumed 33899
+Produced 70202
+    Consumed 45869
+Produced 23762
+    Consumed 40864
+Produced 72047
+    Consumed 76660
+Produced 33149
+    Consumed 3771
+Produced 54226
+    Consumed 70202
+Produced 97268
+    Consumed 23762
+Produced 20210
+    Consumed 72047
+Produced 44121
+    Consumed 33149
+Produced 29029
+    Consumed 54226
+Produced 34600
+    Consumed 97268
+Produced 25892
+    Consumed 20210
+Produced 86942
+    Consumed 44121
+Produced 45091
+    Consumed 29029
+Produced 87564
+    Consumed 34600
+Produced 16407
+    Consumed 25892
+Produced 3209
+    Consumed 86942
+Produced 5259
+    Consumed 45091
+Produced 60689
+    Consumed 87564
+Produced 31065
+    Consumed 16407
+Produced 71350
+    Consumed 3209
+Produced 59509
+    Consumed 5259
+Produced 90930
+    Consumed 60689
+Produced 78110
+    Consumed 31065
+Produced 11940
+    Consumed 71350
+Produced 842
+    Consumed 59509
+Produced 79876
+    Consumed 90930
+Produced 56146
+    Consumed 78110
+Produced 16131
+    Consumed 11940
+Produced 91460
+    Consumed 842
+Produced 96893
+    Consumed 79876
+Produced 11366
+    Consumed 56146
+Produced 84848
+    Consumed 16131
+Produced 64471
+    Consumed 91460
+Produced 75517
+    Consumed 96893
+Produced 74943
+    Consumed 11366
+Produced 77001
+    Consumed 84848
+Produced 74528
+    Consumed 64471
+Produced 30628
+    Consumed 75517
+Produced 53637
+    Consumed 74943
+Produced 42144
+    Consumed 77001
+Produced 56269
+    Consumed 74528
+Produced 6858
+    Consumed 30628
+Produced 39005
+    Consumed 53637
+Produced 19048
+    Consumed 42144
+Produced 6621
+    Consumed 56269
+Produced 4023
+    Consumed 6858
+Produced 34006
+    Consumed 39005
+Produced 79525
+    Consumed 19048
+Produced 16536
+    Consumed 6621
+Produced 26680
+    Consumed 4023
+Produced 8111
+    Consumed 34006
+Produced 57343
+    Consumed 79525
+Produced 45487
+    Consumed 16536
+Produced 88789
+    Consumed 26680
+Produced 2912
+    Consumed 8111
+Produced 64190
+    Consumed 57343
+Produced 56486
+    Consumed 45487
+Produced 39351
+    Consumed 88789
+Produced 48394
+    Consumed 2912
+Produced 66324
+    Consumed 64190
+Produced 85212
+    Consumed 56486
+Produced 8292
+    Consumed 39351
+Produced 79350
+    Consumed 48394
+Produced 18208
+    Consumed 66324
+Produced 58481
+    Consumed 85212
+Produced 48022
+    Consumed 8292
+Produced 99737
+    Consumed 79350
+Produced 75953
+    Consumed 18208
+Produced 14171
+    Consumed 58481
+Produced 16394
+    Consumed 48022
+Produced 27211
+    Consumed 99737
+Produced 3393
+    Consumed 75953
+Produced 32292
+    Consumed 14171
+Produced 52206
+    Consumed 16394
+Produced 9341
+    Consumed 27211
+Produced 69717
+    Consumed 3393
+Produced 20577
+    Consumed 32292
+Produced 51658
+    Consumed 52206
+Produced 68891
+    Consumed 9341
+Produced 82799
+    Consumed 69717
+Produced 96367
+    Consumed 20577
+Produced 95072
+    Consumed 51658
+Produced 59394
+    Consumed 68891
+Produced 83527
+    Consumed 82799
+Produced 67566
+    Consumed 96367
+Produced 66406
+    Consumed 95072
+Produced 58066
+    Consumed 59394
+Produced 82579
+    Consumed 83527
+Produced 35161
+    Consumed 67566
+Produced 94996

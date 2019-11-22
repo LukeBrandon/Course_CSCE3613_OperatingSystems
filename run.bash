@@ -1,2 +1,2 @@
 javac *.java
-java ProducerConsumer 200 3 1
+java ProducerConsumer 20 10 5 > output.txt
